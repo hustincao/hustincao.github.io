@@ -1,0 +1,16 @@
+@font-face{
+    font-family:Noto;
+    src: url(fonts/Noto/NotoSans-Light.ttf);
+}
+body{
+    font-family: 'Noto', 'Times New Roman', Arial;
+}
+h1{
+    font-size:3.5rem;
+}
+h2{
+    font-size:2.5rem;
+}
+p{
+    font-size:1.5rem;
+}
