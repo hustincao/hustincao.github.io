@@ -17,3 +17,26 @@ h3{
 p{
     font-size:1.5rem;
 }
+.navbar{
+    background-color:white;
+}
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.navbar ul li{
+    transition: 0.2s ease-in-out;
+    display:inline-block;
+    padding: 8px;
+    color:black;
+    background-color:transparent;
+}
+.navbar .navigation li:hover{
+    color:white;
+    background-color:#0057A0;
+}
+.bluey{
+    background-color:#0057A0; 
+    color:white;
+}
